@@ -1,0 +1,24 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "A custom url-shortner service",
+  "main": "build/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nedanwr/url-shortner.git"
+  },
+  "keywords": [
+    "nodejs",
+    "typescript",
+    "url-shortenr"
+  ],
+  "author": "Naveed Ali Anwar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nedanwr/url-shortner/issues"
+  },
+  "homepage": "https://github.com/nedanwr/url-shortner#readme"
+}
